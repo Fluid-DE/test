@@ -49,18 +49,6 @@ msgstr "Verde"
 msgid "Blue"
 msgstr "Blu"
 
-#: src/MainWindow.vala:393
-msgid "Indigo"
-msgstr "I"
-
-#: src/MainWindow.vala:404
-msgid "Cocoa"
-msgstr "Co"
-
-#: src/MainWindow.vala:415
-msgid "Slate"
-msgstr "D"
-
 #: src/MainWindow.vala:432
 msgid "Note Color"
 msgstr "Colore Nota"
